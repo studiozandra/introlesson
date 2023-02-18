@@ -7,18 +7,22 @@ Once finished, you can post your page live on the internet for the world to enjo
 
 Here (with help from ChatGTP,) is a step-by-step guide on how to set up a new GitHub account, create a new repository, and publish your shiny new web page using a service called GitHub Pages:
 
-To set up a new GitHub account, go to the GitHub website (github.com) and if you don't already have an account, click the "Sign up" button in the upper right corner. Follow the prompts to create your account, including choosing a username, entering your email address and a secure password.
+1. To set up a new GitHub account, go to the GitHub website (github.com) and if you don't already have an account, click the "Sign up" button in the upper right corner. Follow the prompts to create your account, including choosing a username, entering your email address and a secure password.
 
-Once you've created your account, log in to GitHub and click the "+" icon in the upper right corner to create a new repository. (see below for definition of 'repository.')
+
+2. Once you've created your account, log in to GitHub and click the "+" icon in the upper right corner to create a new repository. (see below for definition of 'repository.')
 
 Give your repository a name, and choose whether you want it to be public or private. If you want to use the same HTML file we created earlier, upload it to your repository by clicking "Add file" > "Upload files." Then navigate to the file you saved earlier.
 
-Now, let's publish your web page using GitHub Pages. From your repository page, click the "Settings" tab at the top of the page. Scroll down to the "GitHub Pages" section and select the branch you want to use for your pages (e.g. "main" or "master"). (See below for definition of 'branch.') Then, choose the folder in your repository that contains your HTML file. Finally, click the "Save" button to publish your web page.
 
-That's it! Your web page should now be live and accessible via the URL provided in the GitHub Pages section of your repository settings.
+3. Now, let's publish your web page using GitHub Pages. From your repository page, click the "Settings" tab at the top of the page. Scroll down to the "GitHub Pages" section and select the branch you want to use for your pages (e.g. "main" or "master"). (See below for definition of 'branch.') Then, choose the folder in your repository that contains your HTML file. Finally, click the "Save" button to publish your web page.
+
+That's it! 
+Your web page should now be live and accessible via the URL provided in the GitHub Pages section of your repository settings.
+
 ----------------------------
 
-##Vocabulary:
+## Vocabulary:
 
 repository -- A repository, often abbreviated as "repo," is like a folder or directory that holds all the files and folders for a particular project. In the case of GitHub, a repository is where you can store and manage the files for a project, and it also keeps track of changes made to the files over time. You can think of a repository as a centralized location for your project files that you can access and manage from anywhere with an internet connection.
 
