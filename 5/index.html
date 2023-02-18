@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Web Page</title>
+    <style>
+      h1 {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to my web page</h1>
+    <button onclick="changeText()">Click me</button>
+    <p id="demo">This is a paragraph</p>
+    <script>
+      function changeText() {
+        document.getElementById("demo").innerHTML = "The text has changed!";
+      }
+    </script>
+  </body>
+</html>
