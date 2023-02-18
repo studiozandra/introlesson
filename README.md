@@ -16,6 +16,9 @@ Give your repository a name, and choose whether you want it to be public or priv
 Now, let's publish your web page using GitHub Pages. From your repository page, click the "Settings" tab at the top of the page. Scroll down to the "GitHub Pages" section and select the branch you want to use for your pages (e.g. "main" or "master"). (See below for definition of 'branch.') Then, choose the folder in your repository that contains your HTML file. Finally, click the "Save" button to publish your web page.
 
 That's it! Your web page should now be live and accessible via the URL provided in the GitHub Pages section of your repository settings.
+----------------------------
+
+##Vocabulary:
 
 repository -- A repository, often abbreviated as "repo," is like a folder or directory that holds all the files and folders for a particular project. In the case of GitHub, a repository is where you can store and manage the files for a project, and it also keeps track of changes made to the files over time. You can think of a repository as a centralized location for your project files that you can access and manage from anywhere with an internet connection.
 
